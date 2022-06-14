@@ -4,7 +4,7 @@ this github contains:
  * ChIP-seq workflow:
     - a .ga file for import to other Galaxy servers
     - a .svg image of the workflow 
- * How to enter the VM
+ * Explanation on how to enter the VM
  * How to install tools on the UNRAVEL Galaxy
 
 
