@@ -10,6 +10,7 @@ this github contains:
 
 To have access to the Local UNRAVEL Galaxy workspace make an mydre account and request access from one of the owners. 
 For analysis turn on one of the Windows VMs and the CentOS VM, but only enter the Windows VM. You can find galaxy on the desktop.
+View the "mydre tutorial" for a step by step guide
 
 For tool installations please follow this tutorial: https://galaxyproject.org/admin/tools/add-tool-from-toolshed-tutorial/
 
